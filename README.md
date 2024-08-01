@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootlightman" alt="rootlightman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/extranetsec" target="blank"><img src="https://img.shields.io/twitter/follow/extranetsec?logo=twitter&style=for-the-badge" alt="extranetsec" /></a> </p>
+
 
 
 
